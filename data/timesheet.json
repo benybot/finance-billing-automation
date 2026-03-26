@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "employee": "Staff A",
+      "hours": 160,
+      "rate": 12
+    },
+    {
+      "employee": "Staff B",
+      "hours": 140,
+      "rate": 15
+    }
+  ]
+}
